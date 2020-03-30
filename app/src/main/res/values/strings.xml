@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="olvidates_tu_contrase_a">¿Olvidates tu contraseña?</string>
+    <string name="registrar">Registrar</string>
+    <string name="iniciar_sesi_n">Iniciar Sesión</string>
+    <string name="send_pass">Enviar Contraseña</string>
+</resources>
